@@ -1,0 +1,6 @@
+C:\C#_Exercise\encoding_practice\encoding_practice\bin\Debug\encoding_practice.exe.config
+C:\C#_Exercise\encoding_practice\encoding_practice\bin\Debug\encoding_practice.exe
+C:\C#_Exercise\encoding_practice\encoding_practice\bin\Debug\encoding_practice.pdb
+C:\C#_Exercise\encoding_practice\encoding_practice\obj\Debug\encoding_practice.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\encoding_practice\encoding_practice\obj\Debug\encoding_practice.exe
+C:\C#_Exercise\encoding_practice\encoding_practice\obj\Debug\encoding_practice.pdb

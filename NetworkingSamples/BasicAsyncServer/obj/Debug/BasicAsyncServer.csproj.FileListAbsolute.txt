@@ -1,0 +1,9 @@
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.ServerForm.resources
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.Cache
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\C#_Exercise\NetworkingSamples\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb

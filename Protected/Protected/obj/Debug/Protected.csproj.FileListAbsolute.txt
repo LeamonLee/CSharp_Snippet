@@ -1,0 +1,6 @@
+C:\C#_Exercise\Protected\Protected\bin\Debug\Protected.exe.config
+C:\C#_Exercise\Protected\Protected\obj\Debug\Protected.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\Protected\Protected\bin\Debug\Protected.exe
+C:\C#_Exercise\Protected\Protected\bin\Debug\Protected.pdb
+C:\C#_Exercise\Protected\Protected\obj\Debug\Protected.exe
+C:\C#_Exercise\Protected\Protected\obj\Debug\Protected.pdb

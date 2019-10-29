@@ -1,0 +1,3 @@
+C:\C#_Exercise\TCP_SendJson\Client\bin\Debug\Client.exe.config
+C:\C#_Exercise\TCP_SendJson\Client\obj\Debug\Client.exe
+C:\C#_Exercise\TCP_SendJson\Client\obj\Debug\Client.pdb

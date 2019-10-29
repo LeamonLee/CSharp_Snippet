@@ -1,0 +1,1 @@
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\TCP_SendJson.exe.config

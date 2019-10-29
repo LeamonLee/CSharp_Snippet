@@ -1,0 +1,6 @@
+C:\C#_Exercise\Task_Exer\Task_Exer\bin\Debug\Task_Exer.exe.config
+C:\C#_Exercise\Task_Exer\Task_Exer\bin\Debug\Task_Exer.exe
+C:\C#_Exercise\Task_Exer\Task_Exer\bin\Debug\Task_Exer.pdb
+C:\C#_Exercise\Task_Exer\Task_Exer\obj\Debug\Task_Exer.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\Task_Exer\Task_Exer\obj\Debug\Task_Exer.exe
+C:\C#_Exercise\Task_Exer\Task_Exer\obj\Debug\Task_Exer.pdb

@@ -1,0 +1,8 @@
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\obj\Debug\server_sendJson.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\TCP_SendJson.exe.config
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\TCP_SendJson.exe
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\TCP_SendJson.pdb
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\Newtonsoft.Json.dll
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\bin\Debug\Newtonsoft.Json.xml
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\obj\Debug\TCP_SendJson.exe
+C:\C#_Exercise\TCP_SendJson\TCP_SendJson\obj\Debug\TCP_SendJson.pdb

@@ -1,0 +1,6 @@
+C:\C#_Exercise\NetworkingSamples\MultiClient\bin\Debug\Multi Client.exe.config
+C:\C#_Exercise\NetworkingSamples\MultiClient\bin\Debug\Multi Client.exe
+C:\C#_Exercise\NetworkingSamples\MultiClient\bin\Debug\Multi Client.pdb
+C:\C#_Exercise\NetworkingSamples\MultiClient\obj\Debug\MultiClient.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\NetworkingSamples\MultiClient\obj\Debug\Multi Client.exe
+C:\C#_Exercise\NetworkingSamples\MultiClient\obj\Debug\Multi Client.pdb

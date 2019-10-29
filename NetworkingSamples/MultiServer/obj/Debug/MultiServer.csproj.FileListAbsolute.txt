@@ -1,0 +1,6 @@
+C:\C#_Exercise\NetworkingSamples\MultiServer\bin\Debug\Multi Server.exe.config
+C:\C#_Exercise\NetworkingSamples\MultiServer\bin\Debug\Multi Server.exe
+C:\C#_Exercise\NetworkingSamples\MultiServer\bin\Debug\Multi Server.pdb
+C:\C#_Exercise\NetworkingSamples\MultiServer\obj\Debug\MultiServer.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\NetworkingSamples\MultiServer\obj\Debug\Multi Server.exe
+C:\C#_Exercise\NetworkingSamples\MultiServer\obj\Debug\Multi Server.pdb

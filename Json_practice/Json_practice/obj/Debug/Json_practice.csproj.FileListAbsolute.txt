@@ -1,0 +1,8 @@
+C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Json_practice.exe.config
+C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Json_practice.exe
+C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Json_practice.pdb
+C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Newtonsoft.Json.dll
+C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Newtonsoft.Json.xml
+C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.exe
+C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.pdb

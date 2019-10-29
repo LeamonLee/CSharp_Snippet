@@ -1,0 +1,13 @@
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\csv_practice.exe.config
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\csv_practice.exe
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\csv_practice.pdb
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\CsvHelper.dll
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\System.ValueTuple.dll
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\CsvHelper.xml
+C:\C#_Exercise\csv_practice\csv_practice\bin\Debug\System.ValueTuple.xml
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.Form1.resources
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.Properties.Resources.resources
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.csproj.GenerateResource.Cache
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.exe
+C:\C#_Exercise\csv_practice\csv_practice\obj\Debug\csv_practice.pdb

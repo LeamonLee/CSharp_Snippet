@@ -1,0 +1,6 @@
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\bin\Debug\IEnumerator_practice.exe.config
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\bin\Debug\IEnumerator_practice.exe
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\bin\Debug\IEnumerator_practice.pdb
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\obj\Debug\IEnumerator_practice.csprojResolveAssemblyReference.cache
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\obj\Debug\IEnumerator_practice.exe
+C:\C#_Exercise\IEnumerator_practice\IEnumerator_practice\obj\Debug\IEnumerator_practice.pdb
