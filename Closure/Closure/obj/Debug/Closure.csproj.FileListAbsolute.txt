@@ -1,0 +1,7 @@
+C:\Leamon\C#Exercise\Closure\Closure\bin\Debug\Closure.exe.config
+C:\Leamon\C#Exercise\Closure\Closure\bin\Debug\Closure.exe
+C:\Leamon\C#Exercise\Closure\Closure\bin\Debug\Closure.pdb
+C:\Leamon\C#Exercise\Closure\Closure\obj\Debug\Closure.csprojAssemblyReference.cache
+C:\Leamon\C#Exercise\Closure\Closure\obj\Debug\Closure.csproj.CoreCompileInputs.cache
+C:\Leamon\C#Exercise\Closure\Closure\obj\Debug\Closure.exe
+C:\Leamon\C#Exercise\Closure\Closure\obj\Debug\Closure.pdb

@@ -1,0 +1,11 @@
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.exe
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.deps.json
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.runtimeconfig.json
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.runtimeconfig.dev.json
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.dll
+C:\Leamon\C#Exercise\Jamie_Attribute\bin\Debug\netcoreapp3.0\Jamie_Attribute.pdb
+C:\Leamon\C#Exercise\Jamie_Attribute\obj\Debug\netcoreapp3.0\Jamie_Attribute.csprojAssemblyReference.cache
+C:\Leamon\C#Exercise\Jamie_Attribute\obj\Debug\netcoreapp3.0\Jamie_Attribute.AssemblyInfoInputs.cache
+C:\Leamon\C#Exercise\Jamie_Attribute\obj\Debug\netcoreapp3.0\Jamie_Attribute.AssemblyInfo.cs
+C:\Leamon\C#Exercise\Jamie_Attribute\obj\Debug\netcoreapp3.0\Jamie_Attribute.dll
+C:\Leamon\C#Exercise\Jamie_Attribute\obj\Debug\netcoreapp3.0\Jamie_Attribute.pdb
