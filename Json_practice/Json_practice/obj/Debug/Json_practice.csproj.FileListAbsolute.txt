@@ -6,3 +6,13 @@ C:\C#_Exercise\Json_practice\Json_practice\bin\Debug\Newtonsoft.Json.xml
 C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.csprojResolveAssemblyReference.cache
 C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.exe
 C:\C#_Exercise\Json_practice\Json_practice\obj\Debug\Json_practice.pdb
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\bin\Debug\Json_practice.exe.config
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\bin\Debug\Json_practice.exe
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\bin\Debug\Json_practice.pdb
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\bin\Debug\Newtonsoft.Json.dll
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\bin\Debug\Newtonsoft.Json.xml
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\obj\Debug\Json_practice.csprojAssemblyReference.cache
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\obj\Debug\Json_practice.csproj.CoreCompileInputs.cache
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\obj\Debug\Json_practice.csproj.CopyComplete
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\obj\Debug\Json_practice.exe
+D:\advantech\Leamon\code_snippet\CSharp_Snippet\Json_practice\Json_practice\obj\Debug\Json_practice.pdb

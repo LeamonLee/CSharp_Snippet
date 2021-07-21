@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName></SccProjectName>
+    <SccProvider></SccProvider>
+    <SccAuxPath></SccAuxPath>
+    <SccLocalPath></SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>2.2.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Attributes\vssver2.scc" />
+    <None Remove="Biz\Client\vssver2.scc" />
+    <None Remove="Biz\Impl\vssver2.scc" />
+    <None Remove="Biz\Model\vssver2.scc" />
+    <None Remove="Biz\vssver2.scc" />
+    <None Remove="Config\vssver2.scc" />
+    <None Remove="Enums\vssver2.scc" />
+    <None Remove="Extensions\vssver2.scc" />
+    <None Remove="Handlers\vssver2.scc" />
+    <None Remove="Hosted\vssver2.scc" />
+    <None Remove="Internal\vssver2.scc" />
+    <None Remove="Json\vssver2.scc" />
+    <None Remove="Logger\vssver2.scc" />
+    <None Remove="mssccprj.scc" />
+    <None Remove="Queue\vssver2.scc" />
+    <None Remove="TaskExecutors\vssver2.scc" />
+    <None Remove="Utils\vssver2.scc" />
+    <None Remove="vssver2.scc" />
+    <None Remove="XxlJob.Core.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.3" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.3" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.10.1" />
+    <PackageReference Include="Utf8Json" Version="1.3.7" />
+  </ItemGroup>
+
+</Project>

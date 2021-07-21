@@ -1,0 +1,13 @@
+applications:
+  - name: xxl-job-admin
+    memory: 512M
+    disk_quota: 512M
+    instances: 1
+    health-check-type: process
+    docker:
+      image: registry.cn-hangzhou.aliyuncs.com/lungchito/xxl-job-admin
+      username: lungchito
+    routes:
+    - route: xxl-job-admin-prc-adv-mes-mes.ifactory.wise-stack.com.cn
+    env:
+      "PARAMS": "--spring.datasource.url=jdbc:postgresql://172.21.160.16:5432/a93bc3e5-078a-4f95-ba5a-bfae56a2f894?Unicode=true&characterEncoding=UTF-8 --spring.datasource.username=ac6ed2c6-97b2-4d41-b1fe-c28fc43aee43 --spring.datasource.password=vurm5ftse413frms10oudqoinv --spring.datasource.driver-class-name=org.postgresql.Driver --spring.mail.host=172.21.128.120 --spring.mail.username=MESTransfor@advantech.com.cn --spring.mail.properties.mail.smtp.auth=false  --spring.mail.properties.mail.smtp.starttls.enable=false --spring.mail.properties.mail.smtp.starttls.required=false"

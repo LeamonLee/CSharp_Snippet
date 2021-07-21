@@ -1,0 +1,1 @@
+docker run --name xxl-job-admin -e PARAMS="--spring.datasource.url=jdbc:postgresql://172.22.72.38:5434/postgres?Unicode=true&characterEncoding=UTF-8 --spring.datasource.username=postgres --spring.datasource.password=postgrespostgres --spring.datasource.driver-class-name=org.postgresql.Driver" -p 8080:8080 registry.cn-hangzhou.aliyuncs.com/lungchito/xxl-job-admin 

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XXLJob_HelloWorld": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

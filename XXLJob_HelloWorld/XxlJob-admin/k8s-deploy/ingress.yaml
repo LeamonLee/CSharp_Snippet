@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: xxl-job-admin
+  namespace: atmcmes
+spec:
+  rules:
+    # External endpoint: xxl-job-admin-atmcmes-ews001.ifactory.wise-stack.com.cn/
+    # Internal endpoint: xxl-job-admin.atmcmes.ews001.en.internal
+    # appName.namespace.clusterName.en.internal  <-- Must follow this rule to name the hostname
+    - host: xxl-job-admin.atmcmes.ews001.en.internal
+      http:
+        paths:
+        - path: /
+          backend:
+            serviceName: xxl-job-admin
+            servicePort: 80
+          
+    

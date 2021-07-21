@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: xxl-job-admin
+  namespace: atmcmes
+  labels:
+    app: xxl-job-admin
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: xxl-job-admin
+  template:
+    metadata:
+      labels:
+        app: xxl-job-admin
+    spec:   
+      containers:
+      - name: xxl-job-admin
+        image: harbor.arfa.wise-paas.com/akmcmes/xxl-job-admin:2.2.0
+        imagePullPolicy: Always
+        resources:
+          limits:
+            memory: "512M"
+            cpu: "400m"
+            ephemeral-storage: "512M"
+        ports:
+        - containerPort: 8080
+          name: "xxl-job-admin"
+        env:
+          - name: PARAMS
+            # value: "--server.servlet.context-path=/xxl-job-admin --spring.datasource.url=jdbc:postgresql://172.21.160.15:5432/7805859d-6a06-47ab-b4b0-f0cfaaec67b7?Unicode=true&characterEncoding=UTF-8 --spring.datasource.username=a9e84ec2-5b35-47e1-aa71-9ceda76fd691 --spring.datasource.password=EWDsVr2kCH68vNcOgbUPxVA7r --spring.datasource.driver-class-name=org.postgresql.Driver --spring.mail.host=172.21.128.120 --spring.mail.username=MESTransfor@advantech.com.cn --spring.mail.properties.mail.smtp.auth=false  --spring.mail.properties.mail.smtp.starttls.enable=false --spring.mail.properties.mail.smtp.starttls.required=false"
+            value: "--server.servlet.context-path=/xxl-job-admin --spring.datasource.url=jdbc:postgresql://172.21.160.15:5432/c1e2928f-0e17-42d9-8d8d-5e67cc9e9fd0?Unicode=true&characterEncoding=UTF-8 --spring.datasource.username=16eb5838-d57a-4437-9e7f-898c1f655e20 --spring.datasource.password=KMQJcZVBmoD6tmfAOOa2IjBb9 --spring.datasource.driver-class-name=org.postgresql.Driver"
+      imagePullSecrets:
+      - name: docker-registry-harbor
